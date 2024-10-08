@@ -83,3 +83,12 @@ main {
 .card_text, .card_title {
     padding-left: 24px;
 }
+
+.card:hover {
+    box-shadow: 1px 4px 6px 0px #00000029;
+
+box-shadow: 0px 4px 4px 0px #0000000F;
+
+box-shadow: 0px 1px 1px 0px #0000001F;
+transition: .5s;
+}
